@@ -1,0 +1,3 @@
+pranil,24,10,ktm,74
+suresh,20,10,tokha,55
+Nischal shrestha ,20,15,tokha,99
